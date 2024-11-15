@@ -10,7 +10,9 @@
  </div>
 
 <div align="center">
-  <img alt="banner" title="banner" src="src/assets/banner.png">
+  <img alt="banner" title="banner" src="frontend/src/assets/img1.png">
+  <img alt="banner" title="banner" src="frontend/src/assets/img2.png">
+  <img alt="banner" title="banner" src="frontend/src/assets/img3.png">
 </div>
 
 <br>
